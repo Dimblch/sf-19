@@ -17,3 +17,4 @@ class TestCalc:
 
     def test_adding_correct(self):
         assert self.calc.adding(self, 13, 17) == 30
+
